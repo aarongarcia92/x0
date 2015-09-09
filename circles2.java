@@ -42,3 +42,4 @@ void keyPressed() {
   w=  int( random(50,150) );
   h=  int( random(50,150) );
 }
+gaf
